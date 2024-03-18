@@ -10,118 +10,12 @@ https://discord.gg/swequestrianmod-715626418893095012
 
 Their work is their own and this mod only uses their models and animations in order to produce more items of their determined classes for resource pack creation or to produce ribbon/trophy variants that are able to be displayed as they wanted them to be displayed but also retain their NBT and named data.
 
-~~CREDIT TO THE TEXTURE ARTISTS~~
-Moon Flower is the artist who made the wonderful Rainbow Tack that this mod adds. Please click the link below to learn more about her amazing work!
-https://moon-flower-info.carrd.co/
-
-RileyCasper is the artist who made the ribbon and trophy textures this mod uses. Please join their discord to see all the things they get up to!
-https://discord.gg/cZ6bVAuuJj
-
 ~~CREDIT TO THE HELPING DEV~~
 Thank you to Mothfet for lending an ear and helping assist in the development of this mod through code checking and providing tailored guidance. Please click the link below to learn more about their work!
 https://mothfetart.carrd.co/
 
 ~~GUIDANCE CREDIT~~
-Thank you to MagnusHJenson (legenden) for your support in helping make this add on to your mod (SWEM). Thank you for answering so many questions!
-
 Thank you to Kaupenjoe for your amazing courses and YouTube tutorials. I have learned so much <3
 https://courses.kaupenjoe.net/
 
 -----------------------------------------------------------------------
-~~CREDIT TO THE NEW FILES OF THIS MOD~~
-Custom models and textures included
-
-===MODELS AND TEXTURES===
-----kyraltre----
-BUTTERFLY
-PUMPKIN_GRAND
-PUMPKIN_RESERVE
-MEDAL (all)
-FLAG (all)
-
-----Moon_Flower----
-SNOWFLAKE_GRAND
-SNOWFLAKE_RESERVE
-HEART_GRAND
-HEART_RESERVE
-
-===TEXTURES ONLY===
-----Moon_Flower----
-(On Horse and Rack Renders only -- kyraltre does GUI textures)
-PASTURE_BLANKET_RAINBOW
-PASTURE_BLANKET_RAINBOW_ARMORED
-HALTER_RAINBOW
-ADVENTURE_BLANKET_RAINBOW
-ENGLISH_BLANKET_RAINBOW
-WESTERN_BLANKET_RAINBOW
-ADVENTURE_LEG_WRAPS_RAINBOW
-WESTERN_LEG_WRAPS_RAINBOW
-ENGLISH_LEG_WRAPS_RAINBOW
-ADVENTURE_SADDLE_RAINBOW (+ Saddle Rack texture)
-WESTERN_SADDLE_RAINBOW (+ Saddle Rack texture)
-ENGLISH_SADDLE_RAINBOW (+ Saddle Rack texture)
-ADVENTURE_BREAST_COLLAR_RAINBOW
-WESTERN_BREAST_COLLAR_RAINBOW
-ENGLISH_BREAST_COLLAR_RAINBOW
-ADVENTURE_BRIDLE_RAINBOW
-WESTERN_BRIDLE_RAINBOW
-ENGLISH_BRIDLE_RAINBOW
-ADVENTURE_GIRTH_STRAP_RAINBOW
-WESTERN_GIRTH_STRAP_RAINBOW
-ENGLISH_GIRTH_STRAP_RAINBOW
-DOUBLE_BRIDLE
-ALL ENGLISH & CLOTH BITLESS_BRIDLES (also did icon)
-ALL BAREBACK_SADDLES (also did icon)
-ALL BAREBACK_BLANKETS (also did icon)
-ALL BAREBACK_GIRTH_STRAPS (also did icon)
-***QUARTER SHEETS RAINBOW/DYED/NUMBRED + ICONS***
-AMETHYST_HORSE_ARMOR_RAINBOW (w/ wings)
-IRON_HORSE_ARMOR_RAINBOW (w/o wings)
-SADDLE_BAG_RAINBOW
-HUNTER_BLANKET
-
-----RileyCasper---
-RIBBON_THREE_TAILS_[All Variants]
-RIBBON_TWO_TAILS_[All Variants]
-RIBBON_ONE_TAIL_[All Variants]
-ROSETTE_[All Variants]
-TROPHY_[1 thru 3]
-
-----kyraltre----
-***ALL RAINBOW TACK GUI TEXTURES***
-***ALL AWARD TEXTURES***
-***ALL MORPHO AND MONARCH TEXTURES (except bareback set)***
-***ALL LIBERTY/TRANSPARENT TACK***
-*Both Render and GUI textures for the following items*
-PASTURE_BLANKET_[1 thru 14]
-PASTURE_BLANKET_ARMORED [1 thru 14]
-HALTER_[1 thru 14]
-ADVENTURE_BLANKET_[1 thru 14]
-ENGLISH_BLANKET_[1 thru 14]
-WESTERN_BLANKET_[1 thru 14]
-FLYMASK_[1 thru 14 + dyed variants]
-WESTERN_LEG_WRAPS_[1 thru 14]
-ADVENTURE_LEG_WRAPS_[1 thru 14]
-ENGLISH_LEG_WRAPS_[1 thru 14]
-ADVENTURE_SADDLE_[1 thru 14]
-WESTERN_SADDLE_[1 thru 14]
-ENGLISH_SADDLE_[1 thru 14]
-ADVENTURE_BREAST_COLLAR_[1 thru 14]
-WESTERN_BREAST_COLLAR_[1 thru 14]
-ENGLISH_BREAST_COLLAR_[1 thru 14]
-CLOTH_BREAST_COLLAR_[1 thru 14]
-ADVENTURE_BRIDLE_[1 thru 14]
-WESTERN_BRIDLE_[1 thru 14]
-ENGLISH_BRIDLE_[1 thru 14]
-CLOTH_BRIDLE_[1 thru 14]
-ADVENTURE_GIRTH_STRAP_[1 thru 14]
-WESTERN_GIRTH_STRAP_[1 thru 14]
-ENGLISH_GIRTH_STRAP_[1 thru 14]
-CLOTH_GIRTH_STRAP_[1 thru 14]
-PELHAM_BRIDLE_[Black & Brown]
-CLOTH_HORSE_ARMOR_[1 thru 14]
-SADDLE_BAG_[1 thru 14]
-DRESSAGE_SADDLE
-DRESSAGE_BLANKET
-RACING_SADDLE_BROWN
-RACING_SADDLE_BLACK
