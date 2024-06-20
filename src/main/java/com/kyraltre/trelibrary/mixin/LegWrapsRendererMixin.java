@@ -22,11 +22,18 @@ public abstract class LegWrapsRendererMixin extends ExtendedGeoEntityRenderer<SW
 
     // Adds the knee and upper legs to the leg wrap bones
 
-    private static final String[] LEG_WRAPS_SHOW_BONE_NAMES = new String[]{"FrontLeftKnee", "FrontLeftLeg", "FrontRightLeg", "FrontRightKnee",
+    private static final String[] LEG_WRAPS_SHOW_BONE_NAMES = new String[]{
+            "FrontLeftKnee", "FrontLeftLeg", "FrontRightLeg", "FrontRightKnee",
             "BackLeft", "Thigh", "KneeLeft", "BackRight", "Thigh2", "KneeRight",
-            "LegWrapsSkull", "LegWrapsBridgeOfNose", "LegWrapsEarLeft", "LegWrapsEarRight", "LegWrapsMiddle", "LegWrapsBackRight", "LegWrapsBackRightHoof", "LegWrapsBackLeft", "LegWrapsBackLeftHoof", "LegWrapsFrontRight", "LegWrapsBackFrontHoof", "LegWrapsFrontLeft", "LegWrapsBackFrontLeft"};
+            "LegWrapsSkull", "LegWrapsBridgeOfNose", "LegWrapsEarLeft", "LegWrapsEarRight",
+            "LegWrapsMiddle",
+            "LegWrapsBackRight", "LegWrapsBackRightHoof", "LegWrapsBackLeft", "LegWrapsBackLeftHoof",
+            "LegWrapsFrontRight", "LegWrapsBackFrontHoof", "LegWrapsFrontLeft", "LegWrapsBackFrontLeft"};
 
-    private static final String[] LEG_WRAPS_HIDE_BONE_NAMES = new String[]{"LegWrapsSkull", "LegWrapsBridgeOfNose", "LegWrapsEarLeft", "LegWrapsEarRight", "LegWrapsMiddle", "LegWrapsBackRight", "LegWrapsBackRightHoof", "LegWrapsBackLeft", "LegWrapsBackLeftHoof", "LegWrapsFrontRight", "LegWrapsBackFrontHoof", "LegWrapsFrontLeft", "LegWrapsBackFrontLeft"};
+    private static final String[] LEG_WRAPS_HIDE_BONE_NAMES = new String[]{
+            "LegWrapsSkull", "LegWrapsBridgeOfNose", "LegWrapsEarLeft", "LegWrapsEarRight", "LegWrapsMiddle",
+            "LegWrapsBackRight", "LegWrapsBackRightHoof", "LegWrapsBackLeft", "LegWrapsBackLeftHoof",
+            "LegWrapsFrontRight", "LegWrapsBackFrontHoof", "LegWrapsFrontLeft", "LegWrapsBackFrontLeft"};
 
 
     protected LegWrapsRendererMixin(EntityRendererProvider.Context renderManager, AnimatedGeoModel<SWEMHorseEntity> modelProvider) {
