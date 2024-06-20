@@ -23,10 +23,10 @@ public abstract class BridleReinsRendererMixin extends ExtendedGeoEntityRenderer
 
     // Calling these as pelhams which are bridles with double reins hehe lore
     // Adding bones for nose and lips for flash renders
-    private static final String[] PELHAM_SHOW_BRIDLE_BONE_NAMES = new String[]{"Nose", "DownLip",
+    private static final String[] PELHAM_SHOW_BRIDLE_BONE_NAMES = new String[]{"Nose", "BridleMouth",
             "WesternBridle", "WesternBridleLeftBit", "WesternBridleRightBit", "EnglishBridle", "EnglishBridleLeftBit", "EnglishBridleRightBit"};
 
-    private static final String[] PELHAM_HIDE_BRIDLE_BONE_NAMES = new String[]{"WesternBridle", "WesternBridleLeftBit", "WesternBridleRightBit", "EnglishBridle", "EnglishBridleLeftBit", "EnglishBridleRightBit"};
+    private static final String[] PELHAM_HIDE_BRIDLE_BONE_NAMES = new String[]{"BridleMouth", "WesternBridle", "WesternBridleLeftBit", "WesternBridleRightBit", "EnglishBridle", "EnglishBridleLeftBit", "EnglishBridleRightBit"};
 
 
 
